@@ -28,14 +28,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=draxxptb\&theme=cobalt\&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ###
 
 <br clear="both">
